@@ -10,62 +10,94 @@ Easy CTF Covers The Following:
 1.Cryptography
 
   *Encoding Decoding
+  
   *Encryption Decryption
+  
   *Hashing
 
 2.Steganography
 
   *General Steganography
+  
   *MultiMedia Steganography
+  
  
 3.Forensics
 
   *Digital Forensics
+  
   *Network Traffic Analysis
+  
  
 4.OSINT
 
   *General OSINT
+  
   *Image Lookup
+  
   *Files Lookup
+  
   *Document Lookup
+  
   *Music Lookup
+  
   *Video Lookup
-  *Reverse Iamge Lookup
+  
+  *Reverse Image Lookup
+  
 
 5.Reverse Engineering
 
   *Decompiling
+  
   *Disassembling
+  
   *Hex Editing
+  
   *Binary Editing
+  
  
 6.SQL
 
    *ALL SQL Queries
+   
    *Quering SQL Script
+   
    *Quering DataBase File
+   
    
 7.Programming
 
   *Online IDEs
+  
   *Web Development
+  
   *JSON 
+  
   *Compliers
+  
 
 8.pwn
 
   *Linux pwning
+  
   *Windows pwning
+  
 
 9.web
 
   *Vuln Scanners
+  
   *Headers Analysis
+  
   *Editing Request
+  
   *Editing Responses
+  
   *Cookie Editing
+  
   *Technology Lookup
+  
   
 # Installation
 
