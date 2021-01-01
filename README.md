@@ -4,7 +4,7 @@
 Easy CTF is a Interactive Tool To Help CTF Players 
 To Get All Online Resources At One Place 
 
-Resources Are Categorize In Thier Respective Types
+Resources Are Categorize In Thier Respective Types,
 Easy CTF conatains More Than 100!!!  Web Resources
 
 
